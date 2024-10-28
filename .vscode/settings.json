@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "activityBar.background": "#3B2252",
+        "titleBar.activeBackground": "#532F73",
+        "titleBar.activeForeground": "#FDFCFE",
+        "editor.fontFamily": "'Monaspace Neon', monospace",
+    }
+}
